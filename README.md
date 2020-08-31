@@ -3,6 +3,6 @@
   <img src = "picabeat.png" width = "600">
   <br>
     <br>
-  Picabeat – Booking Agent Website
+  Picabeat – EDM Booking Agent Website
   <br>
 </h1>
